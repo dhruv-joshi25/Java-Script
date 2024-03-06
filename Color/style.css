@@ -1,0 +1,32 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: wheat;
+}
+
+.color{
+    height: 20px;
+    width: 100px;
+    display: inline-block;
+    margin-top: 100px;
+
+}
+.red{
+    background-color: red;
+    margin-left: 30%;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.violet{
+    background-color: violet;
+}
+.purple {
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}

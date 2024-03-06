@@ -1,0 +1,18 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    transition: all ease-in 3s;
+}
